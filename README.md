@@ -4,7 +4,7 @@ php watermark based on phpwatermark Josemar Davi Luedke http://github.com/josema
 
 ### Installation
 ```bash
-composer require thanhansoft/fdola-watermark
+composer require thanhansoft/fdola-watermark:dev-master
 ```
 
 ### How to use?
