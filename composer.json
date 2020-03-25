@@ -1,14 +1,15 @@
 {
     "name": "thanhansoft/fdola-watermark",
     "description": "php watermark based on phpwatermark Josemar Davi Luedke http://github.com/josemarluedke/Watermark",
-    "type": "php",
+    "type": "library",
 	"keywords": ["php watermark", "fdola watermark"],
-	"homepage": "https://anhlinh.net",
+	"homepage": "https://github.com/thanhansoft/fdola-watermark",
     "license": "MIT",
     "authors": [
         {
             "name": "thanhansoft",
-            "email": "thanhansoft@gmail.com"
+            "email": "thanhansoft@gmail.com",
+			"homepage": "https://anhlinh.net",
         }
     ],
     "require": {
@@ -18,5 +19,7 @@
         "psr-4": {
             "Fdola\\FdolaWatermark\\": "src/Fdola/FdolaWatermark/"
         }
-    }
+    },
+	"minimum-stability": "dev",
+	"prefer-stable": true
 }
