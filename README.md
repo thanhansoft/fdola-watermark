@@ -1,10 +1,10 @@
 # fdola-watermark
 
-php watermark based on phpwatermark Josemar Davi Luedke http://github.com/josemarluedke/Watermark/apply
+php watermark based on phpwatermark Josemar Davi Luedke http://github.com/josemarluedke/Watermark
 
 ### Installation
 ```bash
-composer require fdola-watermark
+composer require thanhansoft/fdola-watermark
 ```
 
 ### How to use?

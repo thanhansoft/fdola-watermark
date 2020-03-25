@@ -1,6 +1,6 @@
 {
     "name": "thanhansoft/fdola-watermark",
-    "description": "php watermark based on phpwatermark Josemar Davi Luedke http://github.com/josemarluedke/Watermark/apply",
+    "description": "php watermark based on phpwatermark Josemar Davi Luedke http://github.com/josemarluedke/Watermark",
     "type": "php",
     "license": "MIT",
     "authors": [
